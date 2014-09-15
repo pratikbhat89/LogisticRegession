@@ -1,8 +1,8 @@
 /////////////////////////////////////////////////////////////////////////////////////////////
-///				This is read-me file for CSE 574 Assignment 3.								  ///
+///												  
 ///		It contains step by step execution details for all the parts of the project		  ///
 ///				@Author : Anirudha Karwa (akarwa@buffalo.edu)							  ///
-///						  Pratik Bhat (pratiksu@buffalo.edu)							  ///
+///						      Pratik Bhat (pratiksu@buffalo.edu)							  ///
 /////////////////////////////////////////////////////////////////////////////////////////////
 
 ---------------------Content of Code Folder-----------------------
