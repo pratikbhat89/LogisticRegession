@@ -11,7 +11,6 @@ and compared the performance by tweaking the kernel function and gamma values.
 
 ---------------------Content of Code Folder-----------------------
 
-
 1. blrObjFunction.m   (binary logistic regression)
 2. blrPredict.m
 3. blrNewtonRaphsonLearn.m (binary logistic regression using Newton Raphson method with Hessian Matrix)
@@ -22,6 +21,7 @@ and compared the performance by tweaking the kernel function and gamma values.
 8. params.mat       (all result variables)
 
 ---------------------Content of params.mat-------------------------
+
 1. W_blr 		 		(weight vector for BLR Gradient Descent)
 2. W_blr_Newton  		(weight vector for BLR Newton Raphson)
 3. W_mlr		 		(weight vector for MLR Gradient Descent) 
@@ -33,6 +33,7 @@ and compared the performance by tweaking the kernel function and gamma values.
 
 
 ---------------------Content of Report Folder-------------------------
+
 1. Report.pdf
 
 #Note:
