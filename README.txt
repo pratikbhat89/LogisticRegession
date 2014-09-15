@@ -1,9 +1,5 @@
-/////////////////////////////////////////////////////////////////////////////////////////////
-///												  
-///		It contains step by step execution details for all the parts of the project		  ///
-///				@Author : Anirudha Karwa (akarwa@buffalo.edu)							  ///
-///						      Pratik Bhat (pratiksu@buffalo.edu)							  ///
-/////////////////////////////////////////////////////////////////////////////////////////////
+
+Logistic Regresion and SVM
 
 This assignment implements Handwritten Digits Classifier using various types of Logistic Regression and compares its performance.
 Binary and Multiclass Logistic Regression has been implemented using both Gradient descent and Newton Raphson approach.
