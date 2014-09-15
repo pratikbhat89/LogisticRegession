@@ -10,6 +10,8 @@ and compared the performance by tweaking the kernel function and gamma values.
 
 
 ---------------------Content of Code Folder-----------------------
+
+
 1. blrObjFunction.m   (binary logistic regression)
 2. blrPredict.m
 3. blrNewtonRaphsonLearn.m (binary logistic regression using Newton Raphson method with Hessian Matrix)
