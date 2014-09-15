@@ -1,5 +1,5 @@
 
-#Logistic Regresion and SVM
+#Logistic Regression and SVM
 
 This assignment implements Handwritten Digits Classifier using various types of Logistic Regression and compares its performance.
 Binary and Multiclass Logistic Regression has been implemented using both Gradient descent and Newton Raphson approach.
