@@ -5,15 +5,23 @@
 ///						      Pratik Bhat (pratiksu@buffalo.edu)							  ///
 /////////////////////////////////////////////////////////////////////////////////////////////
 
+This assignment implements Handwritten Digits Classifier using various types of Logistic Regression and compares its performance.
+Binary and Multiclass Logistic Regression has been implemented using both Gradient descent and Newton Raphson approach.
+
+Using LibSVM , we have performed classification on the dataset using SVM 
+and compared the performance by tweaking the kernel function and gamma values.
+
+
+
 ---------------------Content of Code Folder-----------------------
-1. blrObjFunction.m
+1. blrObjFunction.m   (binary logistic regression)
 2. blrPredict.m
-3. blrNewtonRaphsonLearn.m
-4. mlrObjFunction.m
-5. mlrPredict.m
+3. blrNewtonRaphsonLearn.m (binary logistic regression using Newton Raphson method with Hessian Matrix)
+4. mlrObjFunction.m  (multi class logistic rgression with gradient descent)
+5. mlrPredict.m      (multi cass logistic regression using Newton Raphson method with Hessian Matrix)
 6. mlrNewtonRaphson.m
 7. script.m
-8. params.mat
+8. params.mat       (all result variables)
 
 ---------------------Content of params.mat-------------------------
 1. W_blr 		 		(weight vector for BLR Gradient Descent)
